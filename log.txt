@@ -1,0 +1,602 @@
+root@DESKTOP-4M1RGK2:~/git/gke-pull-limit-labo# ./loop.sh
+1th apply.
+pod/pulltest unchanged
+pulltest   1/1     Running   0          4m33s
+pod "pulltest" deleted
+2th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+3th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+4th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+5th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+6th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+7th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+8th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+9th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+10th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+11th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+12th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+13th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+14th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+15th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+16th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+17th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+18th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+19th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+20th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+21th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+22th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+23th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+24th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+25th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+26th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+27th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+28th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+29th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+30th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+31th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+32th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+33th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+34th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+35th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+36th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+37th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+38th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+39th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+40th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+41th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+42th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+runtime: failed to create new OS thread (have 43th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+44th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+45th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+46th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+47th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+48th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+49th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+50th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+51th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+52th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+53th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+54th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+55th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+56th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+57th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+58th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+59th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+60th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+61th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+62th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+63th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+64th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+65th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+66th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+67th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+68th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+69th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+70th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+71th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+72th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+73th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+74th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+75th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+76th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+77th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+78th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+79th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+80th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+81th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+82th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+83th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+84th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+85th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+86th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+87th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+88th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+89th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+90th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+91th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+92th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+93th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+94th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+95th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+96th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+97th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+98th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+99th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+100th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+101th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+102th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+103th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+104th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+105th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+106th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+107th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+108th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+109th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+110th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+111th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+112th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+113th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+114th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+115th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+116th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+117th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+118th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+119th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+120th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+121th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+122th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+123th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+124th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+125th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+126th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+127th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+128th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+129th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+130th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+131th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+132th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+133th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+134th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+135th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+136th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+137th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+138th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+139th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+140th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+141th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+142th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+143th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+144th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+145th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+146th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+147th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+148th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+149th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          4s
+pod "pulltest" deleted
+150th apply.
+pod/pulltest created
+pulltest   1/1     Running   0          3s
+pod "pulltest" deleted
+root@DESKTOP-4M1RGK2:~/git/gke-pull-limit-labo#

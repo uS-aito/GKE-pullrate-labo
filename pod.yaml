@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pulltest
+  labels:
+    name: pulltest
+spec:
+  containers:
+  - name: pulltest
+    image: nginx:alpine
+    resources:
+      limits:
+        memory: "128Mi"
+        cpu: "500m"
+    imagePullPolicy: Always
